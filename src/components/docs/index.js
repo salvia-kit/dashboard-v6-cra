@@ -240,7 +240,7 @@ export default function Docs() {
             <span className="px-1 font-medium">pages</span>directory
           </li>
           <li className="mb-3">
-            Wrap your routes in <span className="font-medium">App.js</span> by
+            Wrap your routes in <span className="font-medium">app.js</span> by
             the<span className="px-1 font-medium">DashboardLayout</span>
             component
           </li>
